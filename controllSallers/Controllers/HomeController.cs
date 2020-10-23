@@ -17,7 +17,8 @@ namespace controllSallers.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "the system reports a sales report.";
+            ViewData["Desenvolvedor"] = "Anderson Bandeira.";
 
             return View();
         }
