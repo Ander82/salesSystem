@@ -34,4 +34,3 @@ C:\Desenvolvimento\Projetos\udemy\c#completo@2020\controllSallers\SalesWebMvc\Sa
 C:\Desenvolvimento\Projetos\udemy\c#completo@2020\controllSallers\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Desenvolvimento\Projetos\udemy\c#completo@2020\controllSallers\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Desenvolvimento\Projetos\udemy\c#completo@2020\controllSallers\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
-C:\Desenvolvimento\Projetos\udemy\c#completo@2020\controllSallers\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
